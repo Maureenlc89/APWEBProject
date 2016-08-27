@@ -23,8 +23,9 @@
 
 	<div class="row">
 		<div id="artistasSection" class="marginTop col-md-8">
-		<h1 class="marginTop"><img src="img/machine.png">Charlie <a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
+		<h1 class=""><img src="img/machine.png">Charlie <a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
 		</span></a></h1>
+		<img src="img/decor.png">
 			<div class="row">
 					<div class="col-md-6">
 						<article class="col-sm-12">
@@ -46,8 +47,9 @@
 
 	<div class="row">
 		<div id="artistasSection" class="marginTop col-md-8">
-		<h1 class="marginTop"><img src="img/machine.png">Kevin<a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
+		<h1 class=""><img src="img/machine.png">Kevin<a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
 		</span></a></h1>
+			<img src="img/decor.png">
 			<div class="row">
 					<div class="col-md-6">
 						<article class="col-sm-12">
@@ -69,8 +71,9 @@
 
 	<div class="row">
 		<div id="artistasSection" class="marginTop col-md-8">
-		<h1 class="marginTop"><img src="img/machine.png">Randall<a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
+		<h1 class=""><img src="img/machine.png">Randall<a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
 		</span></a></h1>
+			<img src="img/decor.png">
 			<div class="row">
 					<div class="col-md-6">
 						<article class="col-sm-12">
@@ -92,8 +95,9 @@
 
 	<div class="row">
 		<div id="nosotrosSection" class="marginTop col-md-8">
-			<h1 class="marginTop">Nosotros<a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
+			<h1 class="">Nosotros<a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
 			</span></a></h1>
+				<img src="img/decor.png">
 			<div class="col-md-12">
 				<!--Para cambiar como mostrar el texto, poner clase "center_div"
 			se añadio nueva propiedad al article, en style.css-->
@@ -132,6 +136,7 @@
 	<section id="ProductosSection" class=" ">
 	<h1 >Productos <a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
 	</span></a></h1>
+		<img src="img/decor.png">
 
 		<?php
 		include "galeriaCompleta.php"
@@ -142,6 +147,7 @@
 	<section id="contactoSection" class="">
 	<h1 >Contacto <a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
 	</span></a></h1>
+		<img src="img/decor.png">
 	<article class="text-center">
 	<p>Direccion : San Pedro 25 metros al sur de Jazz Cafe, San Jose ,Costa Rica</p>
 	<p>Telefono : 22489222 </p>
@@ -154,24 +160,23 @@
 
 	</section>
 </body>
-<footer class=" container-fluid row">
-
-	<article class="col-sm-4 text-center"><p>Desarrollado por :</p>
-	 <img src="img/logo.png" width="200px" heigth="100px">
-	</article>
-	<div class="col-sm-4">
--<a href="#"><span><i class="fa fa-instagram  fa-2x"  aria-hidden="true"></i>
-</span></a>-
-<a href="#"><span ><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>
-</span></a>-
-<a href="#"><span ><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
-</span></a>-
-	</div>
+	<footer class=" container-fluid row">
 	<div class="col-sm-4 text-center">
-		<p>Tattoo Arte Primitivo San Jose , Costa Rica </p>
-		<p>Tel. 2224-89-22 </p>
-		<img src="img/tattoo.png">
+	<p>Tattoo Arte Primitivo San Jose , Costa Rica </p>
+	<p>Tel. 2224-89-22 </p>
+	<img src="img/tattoo.png">
 	</div>
+	<div class="col-sm-4">
+	-<a href="#"><span><i class="fa fa-instagram  fa-2x"  aria-hidden="true"></i>
+	</span></a>-
+	<a href="#"><span ><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>
+	</span></a>-
+	<a href="#"><span ><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+	</span></a>-
+	</div>
+	<article class="col-sm-4 text-center"><p>Desarrollado por :</p>
+	<img src="img/logo.png" width="200px" heigth="100px">
+	</article>
 </footer>
 <script type="text/javascript" src ="js/jquery-3.1.0.min.js"></script>
 <script type="text/javascript" src ="js/bootstrap.js"></script>
