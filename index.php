@@ -47,7 +47,7 @@
 
 	<div class="row">
 		<div id="artistasSection" class="marginTop col-md-8">
-		<h1 class=""><img src="img/machine.png">Kevin<a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
+		<h1 class=""><img src="img/piercing.png">Kevin<a href="#"><span><i class="fa fa-sort-asc" aria-hidden="true"></i>
 		</span></a></h1>
 			<img src="img/decor.png">
 			<div class="row">
